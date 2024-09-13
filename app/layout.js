@@ -1,6 +1,6 @@
 //Dependencies
 import { JetBrains_Mono } from "next/font/google";
-import "./globals.css";
+import "../components/globals.css";
 export const metadata = {
   title: "CRM App",
   description: "Web base CRM Software",
