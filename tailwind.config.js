@@ -7,7 +7,7 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      primary: "var(--font-jetbrainsMono)",
+      //primary: "var(--font-jetbrainsMono)",
     },
     extend: {},
   },

@@ -1,5 +1,7 @@
 "use client";
 //Dependencies
+import styles from "./navbar.module.css";
+//Icons
 import {
   FaCartPlus,
   FaMinus,
@@ -10,7 +12,6 @@ import {
 import { IoMdNotifications } from "react-icons/io";
 import { LuRefreshCcw } from "react-icons/lu";
 import { MdMenu, MdShoppingCart } from "react-icons/md";
-import styles from "./navbar.module.css";
 
 //Navbar component
 const Navbar = () => {

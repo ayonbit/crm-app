@@ -1,8 +1,8 @@
 "use client";
 //Dependendcies
-import styles from "@/components/dashboard/dashboard.module.css";
-import Navbar from "@/components/dashboard/navbar/navbar";
-import Sidebar from "@/components/dashboard/sidebar/sidebar";
+import styles from "../components/dashboard/dashboard.module.css";
+import Navbar from "../components/dashboard/navbar/navbar";
+import Sidebar from "../components/dashboard/sidebar/sidebar";
 const Layout = ({ children }) => {
   return (
     <div className={styles.container}>
